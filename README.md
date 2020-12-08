@@ -1,0 +1,1 @@
+# MQshellScript_GETMsgs
